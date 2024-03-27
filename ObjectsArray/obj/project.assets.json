@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Project1\\ObjectsArray.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Coding Files\\ObjectsArray\\ObjectsArray.csproj",
       "projectName": "ObjectsArray",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Project1\\ObjectsArray.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Coding Files\\ObjectsArray\\ObjectsArray.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Project1\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Coding Files\\ObjectsArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
